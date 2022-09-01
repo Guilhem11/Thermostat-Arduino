@@ -4,5 +4,6 @@ la température en degré celsius est supérieur ou égale à 50°C.
 Est également affiché l'écart de température entre l'intérieur et l'extérieur.
 2 boutons permettent de naviguer entre les différents affichages de l'écran comme par exemple passer de l'affichage de la température intérieur,
 à celle de l'extérieur.
+Un bouton premet également d'activer ou non une ventilaton via un relais.
 
-Le système fonctionne avec 2 sondes de températures, 1 buzzer, 1 carte arduino UNO, 2 boutons et un écran lcd.
+Le système fonctionne avec 2 sondes de températures, 1 buzzer, 1 carte arduino UNO, 3 boutons,un relais et un écran lcd.
